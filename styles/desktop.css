@@ -1,0 +1,19 @@
+main {
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
+
+section {
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+}
+
+article {
+    padding: 4rem;
+}
+
+article p {
+    margin-block-end: 8rem;
+}
