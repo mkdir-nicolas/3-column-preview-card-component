@@ -7,7 +7,7 @@ main {
     background-color: var(--very-light-gray);
 }
 
-section {
+div {
     border-radius: 1rem;
     margin: 6rem auto;
     overflow: hidden;

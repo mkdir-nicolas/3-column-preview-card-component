@@ -4,7 +4,7 @@ main {
     height: 100vh;
 }
 
-section {
+div {
     max-width: 100%;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
