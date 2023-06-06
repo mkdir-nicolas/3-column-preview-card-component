@@ -19,7 +19,7 @@ article {
     padding: 5.6rem;
 }
 
-article h2 {
+article h2, h1 {
     font-family: 'Big Shoulders Display', cursive;
     text-transform: uppercase;
     font-size: 4rem;
